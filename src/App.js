@@ -45,7 +45,7 @@ resultOperations = () => {
         <Button onClick={this.handleClick} label="C" value="clear" />
           <Button onClick={this.handleClick} label="7" value="7" />
           <Button onClick={this.handleClick} label="4" value="4" />
-          <Button onClick={this.handleClick} label="1" value="1" />
+          <Button onClick={this.handleClick} label="3" value="3" />
           <Button onClick={this.handleClick} label="0" value="0" />
 
           <Button onClick={this.handleClick} label="/" value="/" />
@@ -57,7 +57,7 @@ resultOperations = () => {
           <Button onClick={this.handleClick} label="x" value="*" />
           <Button onClick={this.handleClick} label="9" value="9" />
           <Button onClick={this.handleClick} label="6" value="6" />
-          <Button onClick={this.handleClick} label="3" value="3" />
+          <Button onClick={this.handleClick} label="1" value="1" />
           <Button label="" value="null" />
 
           <Button onClick={this.handleClick} label="-" value="-" />
